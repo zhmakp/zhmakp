@@ -18,6 +18,11 @@ Here are some ideas to get you started:
 
 I'm full stack software engineer from Ukraine.
 
+- 📚 I’m currently learning about software craftmanship, management, workflow.
+- ✏️ I’m writing on [medium.com](https://medium.com/@zhmakp), [dev.to](https://dev.to/zhmakp).
+- 🤔 I’m looking for 100% remote opportunities.
+
+
 <h4 align="left">📫 Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pavlo-zhmak-9495b2ab/" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="https://www.linkedin.com/in/pavlo-zhmak-9495b2ab/" height="30" width="30" /></a> <a href="https://twitter.com/pasha43029304" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/4494/4494481.png" alt="https://twitter.com/pasha43029304" height="30" width="30" /></a> 
